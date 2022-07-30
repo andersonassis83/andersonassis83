@@ -1,4 +1,4 @@
-### <h1><a href="https://andersonassis.art.br/">Olá, Sou Anderson Assis</a>, Designer...</h1>
+### <h1><a href="https://andersonassis.art.br/" target="_blank">Olá, Sou Anderson Assis</a>, Designer...</h1>
 ...além de programador, web designer, ilustrador, animador, game designer, beatmaker, artesão, produtor, editor e pós editor de mídias audiovisuais. Sim, isso tudo. Gosto de criar soluções de ponta-a-ponta, aliando a objetividade do design com a criatividade e a graciosidade das artes plásticas.
 <br/><br/>
 <div align="center">
