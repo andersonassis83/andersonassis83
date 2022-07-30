@@ -19,10 +19,10 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
-
+<br/><br/>
 <div style="display: inline_block"><br>
-  <h2>Conheça mais dos meus trabalhos e atividades em:</h2>  
-  <a href="https://www.linkedin.com/in/andersonassis83/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <h2>Conheça mais das minhas atividades em:</h2>  
+  <a href="https://www.linkedin.com/in/andersonassis83/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.behance.net/assisartdesign" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"/></a>
   <a href="https://www.instagram.com/mr.andersonassis/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://br.pinterest.com/andersonassisar/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/></a>
